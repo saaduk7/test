@@ -1,2 +1,2 @@
-Hello Class
+Hello Class ! Edited in v1.0
 
